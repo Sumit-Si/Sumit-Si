@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumit-Si
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript and Git.
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me just email me ->  pankajsinghtomar987@gmail.com . 
 
