@@ -2,7 +2,7 @@
 
 > *Turning ideas into scalable, reliable, and user-friendly products.*  
 
-const Pankaj = {
+const Sumit = {
 role: "Full-Stack Developer",
 experience: "2+ years",
 code: ["JavaScript", "TypeScript", "PHP", "SQL", "NoSQL"],
