@@ -57,7 +57,7 @@ funFact: "Passionate about clean code, happy users, and yes, good snacks too."
 ## 📬 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sumit-singh-446053243//" target="_blank">
+  <a href="https://www.linkedin.com/in/sumit-singh-446053243//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pankajsinghtomar987@gmail.com">
