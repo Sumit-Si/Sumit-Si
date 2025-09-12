@@ -48,9 +48,9 @@ funFact: "Passionate about clean code, happy users, and yes, good snacks too."
 
 ## 🚀 Featured Projects  
 
-- 🔗 [**DevBoard**](#) – A lightweight Task Management App built with Node.js,ExpressJS,MongoDB and Mongoose.  
-- 🔗 [**QuickAPI**](#) – A Node.js + Prisma boilerplate for rapid API development.  
-- 🔗 [**EduLearn**](#) – An e-learning platform with video streaming support.  
+- 🔗 [**DevBoard**](https://github.com/Sumit-Si/devBoard) – A REST API for a task management system where users can organize projects and tasks like a simplified Trello.  
+- 🔗 [**Inkwell**](https://github.com/Sumit-Si/inkwell) – A REST APIs for a blogging platform where users can write blog posts with admin approval flow before publishing.  
+- 🔗 [**BookBazaar**](https://github.com/Sumit-Si/bookBazaar) – A REST APIs for online bookstore that allows users to browse, purchase, and review books.this project simulates a lightweight e-commerce system with real-world backend design challenges.  
 
 ---
 
