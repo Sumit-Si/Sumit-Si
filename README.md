@@ -50,7 +50,8 @@ funFact: "Passionate about clean code, happy users, and yes, good snacks too."
 
 - 🔗 [**DevBoard**](https://github.com/Sumit-Si/devBoard) – A REST API for a task management system where users can organize projects and tasks like a simplified Trello.  
 - 🔗 [**Inkwell**](https://github.com/Sumit-Si/inkwell) – A REST APIs for a blogging platform where users can write blog posts with admin approval flow before publishing.  
-- 🔗 [**BookBazaar**](https://github.com/Sumit-Si/bookBazaar) – A REST APIs for online bookstore that allows users to browse, purchase, and review books.this project simulates a lightweight e-commerce system with real-world backend design challenges.  
+- 🔗 [**BookBazaar**](https://github.com/Sumit-Si/bookBazaar) – A REST APIs for online bookstore that allows users to browse, purchase, and review books.this project simulates a lightweight e-commerce system with real-world backend design challenges.
+- 🔗 [**campusHub**](https://github.com/Sumit-Si/campusHub) – A REST APIs for a campus portal system where users have different roles (Student, Faculty, Admin). Each role has specific permissions to access and modify resources.  
 
 ---
 
