@@ -14,19 +14,20 @@ funFact: "Passionate about clean code, happy users, and yes, good snacks too."
 
 ## 🛠️ Technical Expertise
 
-### 💻 Frontend ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Zod](https://img.shields.io/badge/-Zod-3068B7?logo=zod&logoColor=fff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+### 💻 Frontend 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Zod](https://img.shields.io/badge/-Zod-3068B7?logo=zod&logoColor=fff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 
-### ⚙️ Backend ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=fff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff) ![BullMQ](https://img.shields.io/badge/-BullMQ-FF6B35?logo=redis&logoColor=fff)
+### ⚙️ Backend 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=fff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff) ![BullMQ](https://img.shields.io/badge/-BullMQ-FF6B35?logo=redis&logoColor=fff)
 
-### 🗄️ Databases & ORMs ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff) ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=fff) 
+### 🗄️ Databases & ORMs 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff) ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=fff) 
 
 ---
 
 ## 📈 GitHub Analytics 
 
-<div align="center">
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Si&show_icons=true&theme=radical&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumit-Si&theme=radical&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumit-Si&layout=compact&theme=radical&hide_border=true" height="160" /> </p>
-</div>
 
 ---
 
